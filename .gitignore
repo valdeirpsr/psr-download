@@ -1,0 +1,11 @@
+# Folder node
+node_modules
+
+# Build
+dist
+
+# Folder
+out
+
+# Log files
+*.log*
